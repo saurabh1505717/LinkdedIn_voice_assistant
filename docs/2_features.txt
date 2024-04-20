@@ -1,0 +1,4 @@
+ A button to save post in Linkedin.
+ A button to view saved posts.
+ Both the above features should ne accessible via keyboard shortcuts.
+ Both the features should be available on voice command also. 
